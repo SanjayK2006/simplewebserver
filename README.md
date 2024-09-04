@@ -70,7 +70,7 @@ httpd.serve_forever()
 
 ## OUTPUT:
 ![Screenshot 2024-09-04 085420](https://github.com/user-attachments/assets/fe79440a-037d-450a-b513-7b472df3be5a)
-![Screenshot 2024-09-04 085420](https://github.com/user-attachments/assets/375fb230-e3ed-496d-94ed-acc13b663fcf)
+![Screenshot 2024-09-04 083847](https://github.com/user-attachments/assets/dd74a7ef-80ed-43e3-8b2b-22983f385d23)
 
 
 
