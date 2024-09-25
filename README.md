@@ -1,5 +1,5 @@
 # EX01 Developing a Simple Webserver
-## Date:01-09-2024
+## Date:01/9/2024
 
 ## AIM:
 To develop a simple webserver to serve html pages and display the configuration details of laptop.
@@ -21,7 +21,7 @@ Serving the HTML pages.
 Testing the webserver.
 
 ## PROGRAM:
-'''python
+```
 import platform
 from http.server import HTTPServer,BaseHTTPRequestHandler
 
@@ -65,14 +65,11 @@ print("This is my webserver")
 server_address =('',8000)
 httpd = HTTPServer(server_address,MyServer)
 httpd.serve_forever()
-''''
-
-
+```
 ## OUTPUT:
-![Screenshot 2024-09-04 085420](https://github.com/user-attachments/assets/fe79440a-037d-450a-b513-7b472df3be5a)
+![Screenshot (177)](https://github.com/user-attachments/assets/0b2e3e57-a66e-4910-80fa-10e1f5670779)
+
 ![Screenshot 2024-09-04 083847](https://github.com/user-attachments/assets/dd74a7ef-80ed-43e3-8b2b-22983f385d23)
-
-
 
 
 ## RESULT:
